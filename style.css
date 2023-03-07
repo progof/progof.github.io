@@ -18,6 +18,8 @@ html, body {
     -ms-transform: scale(0.6);
     -webkit-transform: scale(0.6);
     transform: scale(0.6);
+    zoom: 50%;
+    zoom: 150%;
   }
   .container div {
     position: absolute;
